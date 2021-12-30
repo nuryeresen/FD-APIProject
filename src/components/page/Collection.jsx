@@ -1,6 +1,6 @@
 import {useState, useEffect} from "react";
 import { Link } from "react-router-dom";
-import CollectionDetail from "./CollectionDetail";
+
 
 
 function Collection(props){
