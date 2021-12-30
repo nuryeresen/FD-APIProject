@@ -18,7 +18,7 @@ useEffect(() => {
     .then(json => {setData(json.data)}
     
     )
-}, [])
+}, [params.id])
 
     return(
      <>
